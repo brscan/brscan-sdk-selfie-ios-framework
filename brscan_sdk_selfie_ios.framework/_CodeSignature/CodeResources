@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/brscan_sdk_selfie_ios-Swift.h</key>
 		<data>
-		/bJR7cSKwIAOYrWOmwBOCYeWf5Q=
+		FOJMfGvKhpdG6S9bKN85lUkNbXg=
 		</data>
 		<key>Headers/brscan_sdk_selfie_ios.h</key>
 		<data>
@@ -74,39 +74,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cGTkgtwSSWsq1T/NEiDvjN2B420=
+		En9jY/pgEl0cQS4OkNqjBoaJMMk=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		hieBbxN1A4ux8hGqR7hthVJhHao=
+		PC+kOkKGgTtipbU4wwGhZu+7Rkc=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		hieBbxN1A4ux8hGqR7hthVJhHao=
+		PC+kOkKGgTtipbU4wwGhZu+7Rkc=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xQS9kseuDbQvTPcxc6YrzXCteic=
+		FfaAX8mm6mK7aoo0mWQCORF5TfA=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Pe9u8IK7mk8PPPX/bJrBlfix5Mk=
+		jdngae+RmD+AEptW2XR4LVRHbvY=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		rXMD569mMR1RbJmRaRjy1PIcZW8=
+		y81SdSaVlzP6c7zNKdyFzVOWFH4=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xQS9kseuDbQvTPcxc6YrzXCteic=
+		FfaAX8mm6mK7aoo0mWQCORF5TfA=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Pe9u8IK7mk8PPPX/bJrBlfix5Mk=
+		jdngae+RmD+AEptW2XR4LVRHbvY=
 		</data>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rXMD569mMR1RbJmRaRjy1PIcZW8=
+		y81SdSaVlzP6c7zNKdyFzVOWFH4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>configuracoes_selfie.plist</key>
 		<data>
-		A6WmMFgn5gY18XxWZXl7PSZfg38=
+		ohYbP28XoJfw1xqgoTk3A7eckog=
 		</data>
 		<key>engrenagem.png</key>
 		<data>
@@ -280,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h49EKa6o6qThdRrbM+t2sJZ7NjL0gQ8MtR7m71R5jhk=
+			wlB5C3bEJFwBR26xlGDNGnb0EWjNJp81rbU11RBDLiY=
 			</data>
 		</dict>
 		<key>Headers/brscan_sdk_selfie_ios.h</key>
@@ -294,56 +294,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y3MJM+1Y0SxPZdsxlp6KgnT025/qnOH6GsRNKLG2VQs=
+			D9o5n1koTkuI4iFN558ke+7VQAtu/52gcFgoYl8UWrA=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y3MJM+1Y0SxPZdsxlp6KgnT025/qnOH6GsRNKLG2VQs=
+			D9o5n1koTkuI4iFN558ke+7VQAtu/52gcFgoYl8UWrA=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			61vDUpTSXp+nJ2WUMSxjAg3C2daoN6XxHYkaDK5GVSI=
+			euL0lDGSYXKi2eEx7osLMlmMWWM/jJvtn7+Db+fJ14Q=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuVwSIf29RrdrtE454LPXIkeJULX3HzMg5P1UK2KhlA=
+			XSh+B/DAcIIpCo9ivMMo7msPcAHhoLlVjqMyddYKY/E=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p6Qu3xjvFnIfR1hgTwdoF5Shq6s7pnwxfpXEWRw0ho8=
+			GtI+hkTEHdLJnA70pQGew9CFMRjZTJ6lAsJKQrIjXgY=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			61vDUpTSXp+nJ2WUMSxjAg3C2daoN6XxHYkaDK5GVSI=
+			euL0lDGSYXKi2eEx7osLMlmMWWM/jJvtn7+Db+fJ14Q=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuVwSIf29RrdrtE454LPXIkeJULX3HzMg5P1UK2KhlA=
+			XSh+B/DAcIIpCo9ivMMo7msPcAHhoLlVjqMyddYKY/E=
 			</data>
 		</dict>
 		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p6Qu3xjvFnIfR1hgTwdoF5Shq6s7pnwxfpXEWRw0ho8=
+			GtI+hkTEHdLJnA70pQGew9CFMRjZTJ6lAsJKQrIjXgY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -406,7 +406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bZUvOx6G20/UU+FDtV+y1dGD1IKSR9Dlx7Vc5xCFblM=
+			TL42CrXPsn34/RfG0q/ecB6jA5Awu3XA4E9nHgBAgbs=
 			</data>
 		</dict>
 		<key>engrenagem.png</key>
