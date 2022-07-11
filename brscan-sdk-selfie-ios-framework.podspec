@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'brscan-sdk-selfie-ios-framework'
-    s.version           = '1.5.0'
+    s.version           = '1.6.0'
     s.summary           = 'brscan-sdk-selfie-ios'
     s.homepage          = 'https://github.com/brscan/brscan-sdk-selfie-ios-framework'
 
