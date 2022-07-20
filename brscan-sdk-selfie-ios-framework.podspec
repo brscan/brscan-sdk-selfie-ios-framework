@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'brscan-sdk-selfie-ios-framework'
-    s.version           = '1.6.0'
+    s.version           = '1.6.1'
     s.summary           = 'brscan-sdk-selfie-ios'
     s.homepage          = 'https://github.com/brscan/brscan-sdk-selfie-ios-framework'
 
@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
     s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 	
-    s.dependency 'GoogleMLKit/FaceDetection','~>2.2.0'
+    s.dependency 'GoogleMLKit/FaceDetection','2.6.0'
 end 

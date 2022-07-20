@@ -1,3 +1,6 @@
+## [1.6.1] - 20-07-2022
+- Correção(hotfix): Atualizar MLKit para versão 2.6.0.
+
 ## [1.6.0] - 11-07-2022
 - Melhoria: Atualizar MLKit para versão 2.6.0.
 
